@@ -1,0 +1,2 @@
+nbminer -a ethash -o stratum+tcp://ethash.poolbinance.com:1800 -u luzhidao1.001
+IEEE Transactions on Network Science and Engineering
